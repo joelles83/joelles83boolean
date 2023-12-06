@@ -1,0 +1,77 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+  }
+  .container{
+    margin: auto;
+    position: center;
+    top: 35px;
+    width: 750px;
+    height: 65px;
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+  
+  
+  .logo{
+    width: 150px;
+    height: 70px;
+    background-image: url(logo.png);
+    background-size: cover;
+    position: relative;
+    top: 50px;
+  }
+  
+  #title{
+    text-align: center;
+    line-height: 150px;
+    font-size: 25px;
+    color: lime;
+    height: 110px;
+    
+  }
+  
+  .green-bar{
+    width: 900px;
+    height: 40px;
+    background-color: lime;
+    margin: center;
+    text-align: center;
+  }
+  
+
+  
+  .main-box{
+    padding: 10px;
+    width: 400px;
+    height: 300px;
+    margin:left;
+  }
+  
+  .name{
+    color: white;
+    font-size: 20px;
+  }
+  
+  .adresse{
+    color: white;
+  }
+  
+  .charge{
+    height: 15px;
+  }
+  
+  
+  #charge-uno{
+    background-color: orange;
+    width: 130px;
+  }
+  
+  #charge-due{
+    background-color: rgb(0, 255, 115);
+    width: 220px;
+  }
+  
+  #charge-tre{
+    background-color: rgb(172, 50, 50);
+    width:60px;
+  }
